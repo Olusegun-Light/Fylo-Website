@@ -23,7 +23,7 @@ npm run build
 
 ## Dark Mode
 
-![Alt text](images/fylo-dark.png)
+![Alt text](images/fylo-dark.jpg)
 
 ## Light Mode
 
